@@ -5,8 +5,6 @@ Add an automatic class.
 # Start Php Serve
 ```php
 php -S localhost:portnumber
-**for example**
-php -S localhost:2121
 ```
 
 # Add Project
