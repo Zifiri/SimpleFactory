@@ -2,6 +2,8 @@
 Basic Factory code for php 
 Add an automatic class.
 
+# Start Php Serve
+php -S localhost:1234
 
 # Add Project
 
