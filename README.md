@@ -3,7 +3,11 @@ Basic Factory code for php
 Add an automatic class.
 
 # Start Php Serve
-php -S localhost:1234
+```php
+php -S localhost:portnumber
+**for example**
+php -S localhost:2121
+```
 
 # Add Project
 
