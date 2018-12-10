@@ -1,0 +1,17 @@
+{
+    "name": "Simple-factory",
+    "description": "Simple Factory Php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Müjdat Cengiz",
+            "email": "mujdat.cengiz@akmyazilim.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Libs\\": "classes/"
+        }
+    }
+}
